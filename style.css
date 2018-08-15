@@ -25,14 +25,12 @@ header {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  background-color: blue;
   justify-content: space-between;
   align-content: center;
   padding: 10%;
 }
 
 #invite {
-  background-color: red;
   width: 50%;
   text-align: center;
 }
