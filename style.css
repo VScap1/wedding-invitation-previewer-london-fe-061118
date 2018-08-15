@@ -22,7 +22,7 @@ header {
 }
 
 
-app {
+#app {
   display: flex;
   flex-direction: row;
   flex-flow: wrap;
