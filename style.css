@@ -27,6 +27,7 @@ section {
 }
 
 #app #1 {
+  display: flex;
   padding: 10;
   background-color: blue;
 }
