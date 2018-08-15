@@ -24,7 +24,7 @@ header {
 #app {
   display: flex;
   flex-direction: row;
-  flex-flow: wrap;
+  flex-wrap: wrap;
   background-color: blue;
   justify-content: center;
   align-content: stretch;
