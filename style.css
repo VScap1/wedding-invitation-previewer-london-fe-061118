@@ -30,7 +30,9 @@ header {
   justify-content: center;
   align-content: stretch;
 }
-#main #invite {
+#main {
   text-align: center;
   padding: 5%;
 }
+
+#invite
