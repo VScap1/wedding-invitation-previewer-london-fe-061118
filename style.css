@@ -32,5 +32,10 @@ header {
 
 #invite {
   background-color: red;
+  width: 50%;
+}
+
+#main {
+  width: 50%;
 }
 
