@@ -35,4 +35,7 @@ header {
   padding: 5%;
 }
 
-#invite
+#invite {
+  text-align: center;
+  padding: 5%;
+}
