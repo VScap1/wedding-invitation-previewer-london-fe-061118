@@ -28,6 +28,7 @@ header {
   background-color: blue;
   justify-content: space-between;
   align-content: center;
+  padding: 10%;
 }
 
 #invite {
