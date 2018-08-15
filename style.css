@@ -31,5 +31,5 @@ section {
   padding: 10;
   background-color: blue;
   justify-content: center;
-  align-content: space-between;
+  align-content: stretch;
 }
