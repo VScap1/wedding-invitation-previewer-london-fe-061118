@@ -33,7 +33,7 @@ header {
 #invite {
   background-color: red;
   width: 50%;
-  justify: center;
+  text-align: center;
 }
 
 #main {
