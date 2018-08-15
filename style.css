@@ -21,13 +21,11 @@ header {
   background: white;
 }
 
-section {
-  flex-direction: row;
-  flex-flow: wrap;
-}
 
 #1 #2 {
   display: flex;
+  flex-direction: row;
+  flex-flow: wrap;
   padding: 10;
   background-color: blue;
   justify-content: center;
