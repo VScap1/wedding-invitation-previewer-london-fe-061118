@@ -28,11 +28,11 @@ header {
   justify-content: space-between;
   align-content: center;
   padding: 10%;
+  height: 100%;
 }
 
 #invite {
   width: 50%;
-  height: 100px;
   text-align: center;
 }
 
