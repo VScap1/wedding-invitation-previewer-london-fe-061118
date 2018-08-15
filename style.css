@@ -32,12 +32,12 @@ header {
 
 #invite {
   width: 50%;
+  height: 100px;
   text-align: center;
 }
 
 #main {
   width: 50%;
-  height: 300px;
   text-align: center;
 }
 
