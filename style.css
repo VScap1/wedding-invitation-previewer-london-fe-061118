@@ -30,3 +30,7 @@ header {
   justify-content: center;
   align-content: stretch;
 }
+#1 {
+  text-align: center;
+  padding: 20%;
+}
