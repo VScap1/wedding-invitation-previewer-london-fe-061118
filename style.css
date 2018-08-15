@@ -22,5 +22,6 @@ header {
 }
 
 section {
-  flex-direction: 
+  flex-direction: row;
+  flex-flow: wrap;
 }
