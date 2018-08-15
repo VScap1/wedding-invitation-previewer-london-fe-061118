@@ -41,6 +41,6 @@ header {
 }
 
 #backgroundDesign {
-  
- background-color: blue;
+    background-image: url("paper.gif");
+}
 }
