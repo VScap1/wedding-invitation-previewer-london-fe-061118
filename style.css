@@ -29,8 +29,4 @@ header {
   justify-content: center;
   align-content: center;
 }
-#main #invite {
-   display: inline-block;
-    margin: 0; 
-    text-align: center;
-}
+
