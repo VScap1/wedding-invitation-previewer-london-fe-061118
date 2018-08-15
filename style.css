@@ -28,7 +28,6 @@ header {
   justify-content: space-between;
   align-content: center;
   padding: 10%;
-  height: 300px;
 }
 
 #invite {
@@ -43,5 +42,6 @@ header {
 
 #backgroundDesign {
     background-image: url("http://www.freepptbackgrounds.net/wp-content/uploads/2013/11/Wedding-Invitation-Floral-Backgrounds.jpg");
+    height: 100%;
 }
 }
