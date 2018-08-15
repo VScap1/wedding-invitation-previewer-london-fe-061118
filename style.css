@@ -26,7 +26,7 @@ header {
   flex-direction: row;
   flex-wrap: wrap;
   background-color: blue;
-  justify-content: space;
+  justify-content: space-between;
   align-content: center;
 }
 
