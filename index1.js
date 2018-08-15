@@ -1,3 +1,3 @@
- document.getElementById("#").addEventListener("click",function () {
+ document.getElementById("#beachButton").addEventListener("click",function () {
    
  }
